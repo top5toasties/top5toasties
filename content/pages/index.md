@@ -4,14 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Top 5 Toasties
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Coming Soon...
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Proper grilled cheese
     actions:
       - label: Get started
         altText: ''
